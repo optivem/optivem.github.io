@@ -1,0 +1,14 @@
+title: Optivem
+description: Building high-quality high-ROI software
+
+include: ['_pages']
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+sass:
+  style: compressed
+  
+highlighter: rouge
