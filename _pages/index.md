@@ -5,7 +5,7 @@ description: Building high performance IT organizations
 permalink: /
 ---
 
-Our goal is to help you and your organization build high performing software teams and to create amazing software products. We realize that success in IT is holistic, therefore Optivem spans both the organizational and technical aspects needed to achieve success.
+Our goal is to help you and your organization build high performing software teams and to create amazing software products. How? The key is to realize that success in IT is holistic - spanning both the organizational and technical aspects.
 
 <h3>Success starts with building a strong team...</h3>
 
