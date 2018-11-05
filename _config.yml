@@ -1,0 +1,17 @@
+title: Optivem
+description: Building high performance IT organizations
+url: https://optivem.com
+
+include: ['_pages']
+
+permalink: /:year/:month/:day/:title
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+
+sass:
+  style: compressed
+  
+highlighter: rouge

@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+	{% include meta.html %}
+	
+    <title>{{ page.title }}</title>
+	
+	{% include styles.html %}
+	
+  </head>
+  
+  <body>
+
+    {% include navigation.html %}
+	
+	{% include banner.html %}
+
+	<div class="container">
+		{{content}}
+	</div>
+
+	{% include scripts.html %}
+	
+  </body>
+</html>
