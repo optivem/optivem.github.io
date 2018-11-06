@@ -73,3 +73,6 @@ The foundation, the "roots" of success start with the Organizational Culture and
 After systematic success if achieve, we encourage innovation, creativity, risk, experimentation to raise the bar higher, what we can do even better, take the system to the next level of excellence. Thus, innovation mutually co-exists with standardization and feeds back into the organizational tree to make the roots even stronger.
 
 We then start achieving rapid growth, multiplicative success.
+
+
+Test sentence...
