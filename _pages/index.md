@@ -16,7 +16,7 @@ Our goal is to help you and your organization build high performing software tea
 
 <h3>... and it finishes with great software products.</h3>
 
-* Ensuring quality from start to finish, miniziming defect rates
+* Ensuring quality from start to finish, minimizing defect rates
 * Building software which delivers high value to your customers
 * Delivering projects on schedule and within budget
 * Making your customers really happy and strengthening your customer relationships
