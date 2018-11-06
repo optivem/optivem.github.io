@@ -18,7 +18,11 @@ layout: default
 
     {% include navigation.html %}
 	
-	{% include banner.html %}
+	<div class="jumbotron banner">
+		<div class="container">
+			{% include banner.html %}
+		</div>
+	</div>
 
 	<div class="container">
 		{{content}}
