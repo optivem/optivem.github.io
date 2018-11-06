@@ -2,7 +2,7 @@
 layout: page
 title: Organization
 description: Opticodex - Organization
-permalink: /opticodex-organization
+permalink: /organization
 ---
 
 Coming soon!
