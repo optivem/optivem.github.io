@@ -66,4 +66,10 @@ The underlying principles of success behind Vemcode is a birectional holisitic a
 * Parallel standardisation and innovation co-evolving towards even higher standards of performance, on one hand discipline in following standards but on the other hand creativity and freedom to innovate, hand-in-hand
 
 
+<h3>Stage 1: Setting the right foundation</h3>
 
+The foundation, the "roots" of success start with the Organizational Culture and Values. To achieve the synergy effect, and holistic approach to organizational success, it is necessary to value both technical excellence but on the other hand also transformational leadership to make the best use of technical capability and move towards a common goal. The foundational roots are structure and control, efficiency, stability, standards, systematization, doing things right - i.e. the foundation is high quality standards and motivating the entire systemtic success across the entire team (and organization). 
+
+After systematic success if achieve, we encourage innovation, creativity, risk, experimentation to raise the bar higher, what we can do even better, take the system to the next level of excellence. Thus, innovation mutually co-exists with standardization and feeds back into the organizational tree to make the roots even stronger.
+
+We then start achieving rapid growth, multiplicative success.
