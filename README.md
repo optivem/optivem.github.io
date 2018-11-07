@@ -1,6 +1,11 @@
 # Optivem
 
+Welcome to the Optivem HitHub page.
+
+## Purpose
+
 Optivem helps IT organizations to:
+
 * Grow high performance teams
 * Deliver high quality software
 * Make customers happy
