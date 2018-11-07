@@ -4,4 +4,4 @@ title: Management
 description: Opticodex - Management
 ---
 
-Coming soon! Updated. 2
+Coming soon!
