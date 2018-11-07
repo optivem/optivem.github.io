@@ -1,6 +1,6 @@
 # Optivem
 
-Welcome to the Optivem HitHub page.
+Welcome to the Optivem GitHub page.
 
 ## Purpose
 
