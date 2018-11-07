@@ -2,7 +2,6 @@
 layout: page
 title: Services
 description: What we do – Our services
-permalink: /services
 ---
 
 <p>

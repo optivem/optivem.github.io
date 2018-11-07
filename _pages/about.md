@@ -2,7 +2,6 @@
 layout: page
 title: About
 description: Who we are – About us
-permalink: /about
 ---
 
 <p>

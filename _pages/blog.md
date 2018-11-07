@@ -2,7 +2,6 @@
 layout: page
 title: Blog
 description: Our Insights – Knowledgebase
-permalink: /blog
 ---
 
 {% for post in site.posts reversed %}

@@ -2,7 +2,6 @@
 layout: page
 title: Codex
 description: High performance - Best practices
-permalink: /codex
 ---
 
 <h2>Motivation: Asking the why?</h2>
