@@ -2,7 +2,7 @@
 layout: page
 title: Management
 description: Opticodex - Management
-permalink: /management
+permalink: /codex/management
 ---
 
-Coming soon!
+Coming soon! Updated.
