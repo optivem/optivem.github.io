@@ -4,4 +4,6 @@ title: Tools
 description: Opticodex - Tools
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

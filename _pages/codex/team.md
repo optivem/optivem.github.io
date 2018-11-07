@@ -4,4 +4,6 @@ title: Team
 description: Opticodex - Team
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

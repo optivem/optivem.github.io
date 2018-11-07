@@ -4,4 +4,6 @@ title: Delivery
 description: Opticodex - Delivery
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

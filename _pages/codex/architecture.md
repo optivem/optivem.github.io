@@ -4,4 +4,6 @@ title: Architecture
 description: Opticodex - Architecture
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

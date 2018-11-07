@@ -4,4 +4,6 @@ title: Methodology
 description: Opticodex - Methodology
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

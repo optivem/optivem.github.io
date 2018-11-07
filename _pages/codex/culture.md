@@ -4,4 +4,6 @@ title: Culture
 description: Opticodex - Culture
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

@@ -4,4 +4,6 @@ title: Documentation
 description: Opticodex - Documentation
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

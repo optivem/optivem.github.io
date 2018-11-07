@@ -4,4 +4,6 @@ title: Leadership
 description: Opticodex - Leadership
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

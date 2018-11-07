@@ -4,4 +4,6 @@ title: Communication
 description: Opticodex - Communication
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

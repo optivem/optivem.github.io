@@ -4,4 +4,6 @@ title: Quality
 description: Opticodex - Quality
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

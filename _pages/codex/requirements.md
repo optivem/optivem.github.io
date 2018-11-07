@@ -4,4 +4,6 @@ title: Requirements
 description: Opticodex - Requirements
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>

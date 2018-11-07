@@ -4,4 +4,6 @@ title: Management
 description: Opticodex - Management
 ---
 
-Coming soon!
+<div class="alert alert-info" role="alert">
+  Coming soon!
+</div>
