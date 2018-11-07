@@ -19,7 +19,6 @@ layout: default
 	
     <div class="container" style="padding-top: 10px;">
       
-      
 		<article class="post">
 
 		  <h1>{{ page.title }}</h1>
@@ -40,11 +39,10 @@ layout: default
 			{% include disqus.html disqus_identifier=page.disqus_identifier %}
 		  </div>
 		</article>
-      
-      
-      
 
     </div>
+	
+	{% include copyright.html %}
 	
 	{% include scripts.html %}
 	
