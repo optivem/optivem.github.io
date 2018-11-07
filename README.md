@@ -5,6 +5,14 @@ Optivem helps IT organizations to:
 * Deliver high quality software
 * Make customers happy
 
+## Issues
+
+Questions, improvement suggestions and issue reports are handled via [Optivem Issues](https://github.com/optivem/optivem.github.io/issues).
+
+## Wiki
+
+Documentation can be found in the [Optivem Wiki](https://github.com/optivem/optivem.github.io/wiki).
+
 ## License
 
 Website content belongs to Optivem.
