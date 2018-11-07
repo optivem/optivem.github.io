@@ -4,13 +4,8 @@ title: Foundations
 description: Opticodex - Foundations
 ---
 
-Coming soon!
-
-<div class="alert alert-warning alert-dismissible fade show" role="alert">
+<div class="alert alert-info" role="alert">
   Coming soon!
-  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-    <span aria-hidden="true">&times;</span>
-  </button>
 </div>
 
 <h2>Motivation: Asking the why?</h2>
