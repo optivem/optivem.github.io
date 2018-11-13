@@ -14,33 +14,35 @@ permalink: /codex
 The foundation of success lies in the organization itself.
 
 <ul>
-	<li><a href="{{ site.url }}/codex/vision" /></li>
-	<li><a href="{{ site.url }}/codex/culture" /></li>
-	<li><a href="{{ site.url }}/codex/leadership" /></li>
-	<li><a href="{{ site.url }}/codex/management" /></li>
-	<li><a href="{{ site.url }}/codex/team" /></li>
+	<li><a href="{{ site.url }}/codex/vision">Vision</a></li>
+	<li><a href="{{ site.url }}/codex/culture">Culture</a></li>
+	<li><a href="{{ site.url }}/codex/leadership">Leadership</a></li>
+	<li><a href="{{ site.url }}/codex/management">Management</a></li>
+	<li><a href="{{ site.url }}/codex/team">Team</a></li>
 </ul>
 
 
 <h2>Pillar 2 - Process</h2>
 
 <ul>
-	<li><a href="{{ site.url }}/codex/methodology" /></li>
-	<li><a href="{{ site.url }}/codex/communication" /></li>
-	<li><a href="{{ site.url }}/codex/documentation" /></li>
-	<li><a href="{{ site.url }}/codex/tools" /></li>
+	<li><a href="{{ site.url }}/codex/methodology">Methodology</a></li>
+	<li><a href="{{ site.url }}/codex/communication">Communication</a></li>
+	<li><a href="{{ site.url }}/codex/documentation">Documentation</a></li>
+	<li><a href="{{ site.url }}/codex/tools">Tools</a></li>
 </ul>
 
 
 <h2>Pillar 3 - Product</h2>
 
 <ul>
-	<li><a href="{{ site.url }}/codex/requirements" /></li>
-	<li><a href="{{ site.url }}/codex/architecture" /></li>
-	<li><a href="{{ site.url }}/codex/development" / ></li>
-	<li><a href="{{ site.url }}/codex/delivery" /></li>
-	<li><a href="{{ site.url }}/codex/quality" /></li>
+	<li><a href="{{ site.url }}/codex/requirements">Requirements</a></li>
+	<li><a href="{{ site.url }}/codex/architecture">Architecture</a></li>
+	<li><a href="{{ site.url }}/codex/development">Development</a></li>
+	<li><a href="{{ site.url }}/codex/delivery">Delivery</a></li>
+	<li><a href="{{ site.url }}/codex/quality">Quality</a></li>
 </ul>
+
+<!-- TODO: VC: Business value / business case -->
 
 <!-- TODO: VC -->
 
