@@ -4,10 +4,6 @@ title: Vision
 description: Vision and mission statements are at the heart of high performing IT organizations
 ---
 
-<div class="alert alert-info" role="alert">
-  Coming soon!
-</div>
-
 <h2>Introduction</h2>
 
 Vision, mission and values are the core elements of successful IT organizations. These reflect the core of who the company, its core ideals and aspirations, and what it hopes to achieve, a sense of meaning and purpose, condensed through powerful statements, which serve as both internal and external communication tools - shared with employees, customers, partners and other stakeholders, providing them with a concrete way to understand the company. They have a critical impact on long term success - affecting the leadership appraoch, providing direction to sales and marketing, increasing employee engagement and productivity and ultimately leading to finanical benefits and increased profitability. 
