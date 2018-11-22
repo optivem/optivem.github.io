@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vision
+title: Optivem Codex - Vision
 description: Vision and mission statements are at the heart of high performing IT organizations
 ---
 
