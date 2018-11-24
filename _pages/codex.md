@@ -19,7 +19,7 @@ The foundation of success lies in the organization itself.
 	<li><a href="{{ site.url }}/codex/culture">Culture</a></li>
 	<li><a href="{{ site.url }}/codex/leadership">Leadership</a></li>
 	<li><a href="{{ site.url }}/codex/management">Management</a></li>
-	<li><a href="{{ site.url }}/codex/team">Team</a></li>
+	<li><a href="{{ site.url }}/codex/teamwork">Teamwork</a></li>
 </ul>
 
 
