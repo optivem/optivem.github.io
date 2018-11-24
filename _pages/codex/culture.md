@@ -35,17 +35,3 @@ Based on the Competing Values Framework 4, the following culture types emerged:
 	<li>Market Culture: results-oriented organization focused on getting things done, goal-oriented tough and competive environment, whereby the empahsis on winnin is what bondsa everyone together, market pentration and market leadership. Leaders are hard drivers, rivals and producers<./li>
 	<li>Hierarchy Culture: fornalized and structured organization, driven by procedures, policies and efficiency, with smooth planning and predictable delivery, leaders are coordinators, organizers and monitors.</li>
 </ul>
-
-<h2>How does culture affect organizational success?</h2>
- 
-There is a strong inseparable link between organizational culture, leadership and employee engagement. When the organizational culture is characterized by a positive environment and when leaders support employees in achieving organizational goals, then this leads to higher employee engagement, satisfaction and motivation. On the other hand, negative organizational cultures can bring down productivity and performance. Thus, organiaztional culture has a critical impact on the organizational performance.
-  
-
-<h2>References</h2>
-
-<ul>
-	<li><a href="https://gothamculture.com/what-is-organizational-culture-definition/" target="_blank">What is organizational culture? (gothamCulture)</a></li>
-	<li><a href="https://www.torbenrick.eu/blog/culture/organizational-culture/" target="_blank">What is organizational culture (Meliorate)</a></li>
-	<li><a href="https://www.ocai-online.com/about-the-Organizational-Culture-Assessment-Instrument-OCAI/Competing-Values-Framework/" target="_blank">The Competing Values Framework (OCAI online)</a></li>
-	<li><a href="https://www.ocai-online.com/about-the-Organizational-Culture-Assessment-Instrument-OCAI/Organizational-Culture-Types" target="_blank">Organizational Culture Types (OCAI online)</a></li>
-</ul>
