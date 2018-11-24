@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Codex
-description: High performance - Best practices
+title: Opticodex
+description: The core standards and best practices behind high performance IT organizations
 permalink: /codex
 ---
 
@@ -15,6 +15,7 @@ The foundation of success lies in the organization itself.
 
 <ul>
 	<li><a href="{{ site.url }}/codex/vision">Vision</a></li>
+	<li><a href="{{ site.url }}/codex/mission">Mission</a></li>
 	<li><a href="{{ site.url }}/codex/culture">Culture</a></li>
 	<li><a href="{{ site.url }}/codex/leadership">Leadership</a></li>
 	<li><a href="{{ site.url }}/codex/management">Management</a></li>
