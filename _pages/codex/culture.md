@@ -1,59 +1,51 @@
 ---
 layout: page
 title: Opticodex - Culture
-description: Opticodex - Culture
+description: Organizational culture is interwoven with organizational values and leadership
 ---
 
-<div class="alert alert-info" role="alert">
-  Coming soon!
-</div>
+<h2>What is an organizational culture?</h2>
 
-organizational cutlure, company culture, corporate culture, team cu;ture, workplace culture, business culture
+Organizational culture (or corporate culture, company culture, workplace culture) is driven by organizational values and guides organizational behaviours, thus forming the organizational environment. It is comprised of the following aspects:
 
-
-organizaional culture
-* STRUCTURAL: underlying shared values, belies and assumptions, attitudes, expectations, norms, written and unwritten rules, the language, the systems, experiences, vision
-* BEHAVIOURAL: which guide behaaviour, ways of interacting (behaviour), influences behaviour of organizaional memmbers, guide what happens by defining situationally-appropriate behaviour, effect group interactions both internally (among employees) and externally (clients and other stakeholders), affects how much employees identify themselves with the org, illustrates how people should behave, how organizations do things
-which form the organizational environment
-
-It's the way things are done.
-
-how cultures and developed and communicated:
-
-There is bidirectional relatiosship between the leaders of the organization and the organizational cutlures. On one hand, the leadders are the "architects" of the organizational culture and they maintain and evolve the culture. But on the other hand when the organizational culture is established, it affects the leadership styles which emerge.
-
-behvioural perspective: culture since it communciates how people should behave supports employees in achieving their goals. If it's in sync and employee feels that the leaders are supporting them in achieving organizaional goals then higher satisfaction... thus a close link between organizaional culture, learderhsip and employee satisfaction. Hoever, organizaional cultures if negative can bring down prdoductivity and performance. But if good then motivates.
-
-Organizational culture is the large chunk of the iceberg, submerged beneath the water, invisible but yet affects everything.
-
-Types of organizational cultures
+<ul>
+	<li>Structural aspect: core underlying shared values, belieds, assumptions, attitudes, expectations, norms, systems, experiences, vision, written and unwritten rules</li>
+	<li>Behavioural aspect: guides and influences behaviours of organizational members, affecting group interactions both internally (among employees) and externally (with clients and other stakeholders), affects how members communicate and the language used, how things get done within the organization</li>
+</ul>
 
 
-Clan Culture
+Organizational culture is the large chunk of the iceberg, submerged beneath the water.
 
- Competing Values Framework 4 organizational culture types emerged
+<h2>What is the relationship between organizational culture and leadership styles?</h2>
+
+There is a bidirectional relationship: leaders form cultures and cultures form leaders.
+
+<ul>
+	<li>Leaders are the architects of organizational culture, they create, maintain and evolve the culture</li>
+	<li>Established cultures affect the leadership styles which emerge, cultures influence the leaders</li>
+</ul>
+
+<h2>Types of organizational cultures</h2>
+
+Based on the Competing Values Framework 4, the following culture types emerged:
+
+<ul>
+	<li>Clan Culture: the organization is like a large company held by loyalty, strong bonds, teamwork and consensus. Leaders serve as mentors and facilitators.</li>
+	<li>Adhocracy Culture: dynamic organization driven by creativity, innovation and risk-taking whereby the target is to produce new products or services and where experiments and innovation are how people bond. Leaders are innovatiors, entreprenours, visionaries and risk-takers.</li>
+	<li>Market Culture: results-oriented organization focused on getting things done, goal-oriented tough and competive environment, whereby the empahsis on winnin is what bondsa everyone together, market pentration and market leadership. Leaders are hard drivers, rivals and producers<./li>
+	<li>Hierarchy Culture: fornalized and structured organization, driven by procedures, policies and efficiency, with smooth planning and predictable delivery, leaders are coordinators, organizers and monitors.</li>
+</ul>
+
+<h2>How does culture affect organizational success?</h2>
  
+There is a strong inseparable link between organizational culture, leadership and employee engagement. When the organizational culture is characterized by a positive environment and when leaders support employees in achieving organizational goals, then this leads to higher employee engagement, satisfaction and motivation. On the other hand, negative organizational cultures can bring down productivity and performance. Thus, organiaztional culture has a critical impact on the organizational performance.
+  
 
- Clan Culture - the organization is like a large company held by loyalty, strong bonds, teamwork and consensus. Leaders serve as mentors and facilitators.
- 
- Adhocracy Culture - dynamic organization driven by creativity, innovation and risk-taking whereby the target is to produce new products or services and where experiments and innovation are how people bond. Leaders are innovatiors, entreprenours, visionaries and risk-takers.
- 
- 
- Market Culture - results-oriented organization focused on getting things done, goal-oriented tough and competive environment, whereby the empahsis on winnin is what bondsa everyone together, market pentration and market leadership. Leaders are hard drivers, rivals and producers 
- 
- Hierarchy Culture - fornalized and structured organization, driven by procedures, policies and efficiency, with smooth planning and predictable delivery, leaders are coordinators, organizers and monitors.
- 
- 
- 
+<h2>References</h2>
 
-
-https://www.torbenrick.eu/blog/culture/organizational-culture/
-
-https://www.ocai-online.com/about-the-Organizational-Culture-Assessment-Instrument-OCAI/Competing-Values-Framework/
-
-https://www.ocai-online.com/about-the-Organizational-Culture-Assessment-Instrument-OCAI/Organizational-Culture-Types
-
-
-
-
-https://gothamculture.com/what-is-organizational-culture-definition/
+<ul>
+	<li><a href="https://gothamculture.com/what-is-organizational-culture-definition/" target="_blank">What is organizational culture? (gothamCulture)</a></li>
+	<li><a href="https://www.torbenrick.eu/blog/culture/organizational-culture/" target="_blank">What is organizational culture (Meliorate)</a></li>
+	<li><a href="https://www.ocai-online.com/about-the-Organizational-Culture-Assessment-Instrument-OCAI/Competing-Values-Framework/" target="_blank">The Competing Values Framework (OCAI online)</a></li>
+	<li><a href="https://www.ocai-online.com/about-the-Organizational-Culture-Assessment-Instrument-OCAI/Organizational-Culture-Types" target="_blank">Organizational Culture Types (OCAI online)</a></li>
+</ul>

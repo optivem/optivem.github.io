@@ -43,16 +43,11 @@ Vision:
 Mission:
 
 <ul>
-
 	<li><a href="https://www.thebalancesmb.com/how-to-write-a-mission-statement-2948001 " target="_blank">How to write a mission statement & mission statement examples (the balance small business)</a></li>
 	<li><a href="https://en.m.wikipedia.org/wiki/Mission_statement" target="_blank">Mission Statement (Wikipedia)</a></li>
 </ul>
 
 
-
-
-
- 
 <!-- TODO -->
 <!--
 Values
