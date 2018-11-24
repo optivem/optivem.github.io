@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Opticodex - Vision
-description: Vision and mission are the heart of high performing IT organizations
+description: Organizational vision sets the powerful goals and aspirations for high performance IT organizations
 ---
 
 <h2>What is the organizational vision?</h2>
@@ -14,7 +14,7 @@ The vision statement is aspirational and forward-thinking, it's going beyond wha
 
 <h2>How does vision affect organizational success?</h2>
 
-Vision, mission and values are the core elements of successful IT organizations. These reflect the the organizational ideals and aspirations, and what it hopes to achieve, condensed through powerful statements, which serve as both internal and external communication tools - shared with employees, customers, partners and other stakeholders, providing them with a concrete way to understand the company. 
+Vision, <a href="{{ site.url }}/codex/mission">mission</a> and values are the core elements of successful IT organizations. These reflect the the organizational ideals and aspirations, and what it hopes to achieve, condensed through powerful statements, which serve as both internal and external communication tools - shared with employees, customers, partners and other stakeholders, providing them with a concrete way to understand the company. 
 
 They have a critical impact on long term success - affecting the leadership approach, providing direction to sales and marketing. It enables the organization to develop highly engaged and mobilized employees, who serve as highly motivated company ambassadors and who put in 110% into the company. This leads to increased productivity and profitability.
 

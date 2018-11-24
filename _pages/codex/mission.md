@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Opticodex - Mission
-description: Vision and mission are the heart of high performing IT organizations
+description: Organizational mission communicates the operational purpose for high performance IT organizations
 ---
 
 <h2>What is the organizational mission</h2>
 
-Unlike the future-based dreams reflected through the company vision, the mission is present-based and practical. It's about the "now" - What is the company doing now? What is the company's reason for existence, what is its purpose?
+Unlike the future-based dreams reflected through the company <a href="{{ site.url }}/codex/vision">vision</a>, the mission is present-based and practical. It's about the "now" - What is the company doing now? What is the company's reason for existence, what is its purpose?
 
 The mission statement communicates the current organizational operations and operational goals:
 
