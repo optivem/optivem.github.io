@@ -73,31 +73,31 @@ foundations
 
 
 	<div class="col-sm-4">
-		<div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+		<div class="card text-white bg-dark mb-3">
 			<div class="card-header">Pillar 1 - People</div>
 			<div class="card-body">
-				<h4 class="card-title">High performance teams</h4>
-				<p class="card-text">Success starts with building a really strong team.</p>
+				<h4 class="card-title">High Performance Teams</h4>
+				<p class="card-text">Building a really strong team and high performance culture - transformational leaders and motivated employees.</p>
 			</div>
 		</div>
 	</div>
 
 	<div class="col-sm-4">
-		<div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
-			<div class="card-header">Pillar 1 - People</div>
+		<div class="card text-white bg-dark mb-3">
+			<div class="card-header">Pillar 2 - Processes</div>
 			<div class="card-body">
-				<h4 class="card-title">High performance teams</h4>
-				<p class="card-text">Success starts with building a really strong team.</p>
+				<h4 class="card-title">Lean-Agile Processes</h4>
+				<p class="card-text">Supporting organizations to achieve continuous iterative-value delivery and continuous improvement.</p>
 			</div>
 		</div>
 	</div>
 	
 	<div class="col-sm-4">
-		<div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
-			<div class="card-header">Pillar 1 - People</div>
+		<div class="card text-white bg-dark mb-3">
+			<div class="card-header">Pillar 3 - Product</div>
 			<div class="card-body">
-				<h4 class="card-title">High performance teams</h4>
-				<p class="card-text">Success starts with building a really strong team.</p>
+				<h4 class="card-title">High Quality Products</h4>
+				<p class="card-text">Building high quality products, delivering value and making customers really happy.</p>
 			</div>
 		</div>
 	</div>
