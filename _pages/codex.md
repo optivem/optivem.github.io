@@ -50,9 +50,65 @@ foundations
 -->
 
 
+
+
+
+
+
+
+
+
+
+
+
 <div class="alert alert-info" role="alert">
   Area below is under construction!
 </div>
+
+
+
+
+
+<div class="row">
+
+
+	<div class="col-sm-4">
+		<div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+			<div class="card-header">Pillar 1 - People</div>
+			<div class="card-body">
+				<h4 class="card-title">High performance teams</h4>
+				<p class="card-text">Success starts with building a really strong team.</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-4">
+		<div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+			<div class="card-header">Pillar 1 - People</div>
+			<div class="card-body">
+				<h4 class="card-title">High performance teams</h4>
+				<p class="card-text">Success starts with building a really strong team.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="col-sm-4">
+		<div class="card text-white bg-dark mb-3" style="max-width: 20rem;">
+			<div class="card-header">Pillar 1 - People</div>
+			<div class="card-body">
+				<h4 class="card-title">High performance teams</h4>
+				<p class="card-text">Success starts with building a really strong team.</p>
+			</div>
+		</div>
+	</div>
+
+
+
+
+</div>
+
+
+
 
 <div class="row">
   
