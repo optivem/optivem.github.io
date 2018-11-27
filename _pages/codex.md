@@ -77,7 +77,7 @@ foundations
 			<div class="card-header">Pillar 1 - People</div>
 			<div class="card-body">
 				<h4 class="card-title">High Performance Teams</h4>
-				<p class="card-text">Building a really strong team and high performance culture - transformational leaders and motivated employees.</p>
+				<p class="card-text">Building a high performance organizational culture - transformational leaders and strong development teams.</p>
 			</div>
 		</div>
 	</div>
@@ -97,7 +97,7 @@ foundations
 			<div class="card-header">Pillar 3 - Product</div>
 			<div class="card-body">
 				<h4 class="card-title">High Quality Products</h4>
-				<p class="card-text">Building high quality products, delivering value and making customers really happy.</p>
+				<p class="card-text">Building high quality products, delivering value and making customers really happy, win-win for everyone.</p>
 			</div>
 		</div>
 	</div>
