@@ -48,3 +48,61 @@ The foundation of success lies in the organization itself.
 foundations
 
 -->
+
+
+
+<div class="card bg-light mb-3" style="">
+	<div class="card-header">First Pillar</div>
+	<div class="card-body">
+		<h2 class="card-title">People</h4>
+		<p class="card-text">
+			<ul>
+				<li><a href="{{ site.url }}/codex/vision">Vision</a></li>
+				<li><a href="{{ site.url }}/codex/mission">Mission</a></li>
+				<li>Values</li>
+				<li><a href="{{ site.url }}/codex/culture">Culture</a></li>
+				<li>Leadership</li>
+				<li>Management</li>
+				<li>Teamwork</li>
+			</ul>
+		</p>
+	</div>
+</div>
+
+<div class="card bg-light mb-3" style="">
+	<div class="card-header">First Pillar</div>
+	<div class="card-body">
+		<h2 class="card-title">People</h4>
+		<p class="card-text">
+			<ul>
+				<li><a href="{{ site.url }}/codex/vision">Vision</a></li>
+				<li><a href="{{ site.url }}/codex/mission">Mission</a></li>
+				<li>Values</li>
+				<li><a href="{{ site.url }}/codex/culture">Culture</a></li>
+				<li>Leadership</li>
+				<li>Management</li>
+				<li>Teamwork</li>
+			</ul>
+		</p>
+	</div>
+</div>
+
+<div class="card bg-light mb-3" style="">
+	<div class="card-header">First Pillar</div>
+	<div class="card-body">
+		<h2 class="card-title">People</h4>
+		<p class="card-text">
+			<ul>
+				<li><a href="{{ site.url }}/codex/vision">Vision</a></li>
+				<li><a href="{{ site.url }}/codex/mission">Mission</a></li>
+				<li>Values</li>
+				<li><a href="{{ site.url }}/codex/culture">Culture</a></li>
+				<li>Leadership</li>
+				<li>Management</li>
+				<li>Teamwork</li>
+			</ul>
+		</p>
+	</div>
+</div>
+
+
