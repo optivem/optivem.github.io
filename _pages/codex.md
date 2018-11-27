@@ -10,7 +10,7 @@ The foundation of success lies in the organization itself. It requires a mix of 
 
 <div class="row">
 
-	<div class="col-sm-4">
+	<div class="col-lg-4">
 		<div class="card text-white bg-dark mb-3">
 			<div class="card-header">Pillar 1 - People</div>
 			<div class="card-body">
@@ -56,7 +56,7 @@ The foundation of success lies in the organization itself. It requires a mix of 
 	</div>
 	
 	
-	<div class="col-sm-4">
+	<div class="col-lg-4">
 		<div class="card text-white bg-dark mb-3">
 			<div class="card-header">Pillar 2 - Processes</div>
 			<div class="card-body">
@@ -84,32 +84,30 @@ The foundation of success lies in the organization itself. It requires a mix of 
 		</div>
 
 		<div class="card bg-light mb-3">
-			<div class="card-header">Documentation</div>
+			<div class="card-header">Communication</div>
 			<div class="card-body">
-				<p class="card-text">Ensure that the right Documentation processes are in place, to ensure that both product and technical knowledge is shared across the team and building the organizational knowledge-base.</p>
+				<p class="card-text">Encourage transparent Communication to ensure that the whole team has a shared understanding and is aligned with the organizational and product goals.</p>
 			</div>
 		</div>
 		
 		<div class="card bg-light mb-3">
-			<div class="card-header">Communication</div>
+			<div class="card-header">Documentation</div>
 			<div class="card-body">
-				<p class="card-text">Encourage transparent Communication to ensure that the whole team is aligned with the organizational and product goals.</p>
+				<p class="card-text">Ensure that the right Documentation processes are in place, to ensure that the organization has a shared product and technical knowledge-base.</p>
 			</div>
 		</div>
-		
-		<!-- TODO: VC: Switch ordering -->
 		
 	</div>
 	
 	
-	<div class="col-sm-4">
+	<div class="col-lg-4">
 		<div class="card text-white bg-dark mb-3">
 			<div class="card-header">Pillar 3 - Product</div>
 			<div class="card-body">
 				<h4 class="card-title">High Value &amp; Quality Products</h4>
 				<p class="card-text">Building high quality products, delivering value and making customers really happy, win-win for everyone.</p>
 				
-				<p>To deliver high value and high quality products:</p>
+				<p>To deliver value and quality products:</p>
 				
 				<ul>
 					<li>Business Requirements</li>
