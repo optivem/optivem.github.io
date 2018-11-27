@@ -34,7 +34,7 @@ The foundation of success lies in the organization itself. It requires a mix of 
 		<div class="card bg-light mb-3">
 			<div class="card-header">Vision & Mission</div>
 			<div class="card-body">
-				<p class="card-text">Ignite an inspiring <a href="{{ site.url }}/codex/vision">Vision</a> and <a href="{{ site.url }}/codex/mission">Mission</a> to set the organization moving towards goals and a sense of purpose.</p>
+				<p class="card-text">Ignite an inspiring <a href="{{ site.url }}/codex/vision">Vision</a> and <a href="{{ site.url }}/codex/mission">Mission</a> to provide a sense of purpose and to move the organization towards big goals.</p>
 			</div>
 		</div>
 		
