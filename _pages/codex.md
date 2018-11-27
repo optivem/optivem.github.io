@@ -60,7 +60,7 @@ The foundation of success lies in the organization itself. It requires a mix of 
 			</div>
 		</div>
 		
-		<p>To deliver high value and high quality products:
+		<p>To deliver high value and high quality products:</p>
 		
 		<ul>
 			<li>Connect business and technology, analyze the business and ROI opportunities, set Requirements which will deliver high value</li>
@@ -68,8 +68,7 @@ The foundation of success lies in the organization itself. It requires a mix of 
 			<li>Ensure that Quality is at every phase of development, from start to finish, and provide continuous Delivery so that customers get iterative business value</li>
 
 		</ul>
-		
 	</div>
-
+	
 </div>
 
