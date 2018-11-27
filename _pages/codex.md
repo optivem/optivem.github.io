@@ -16,10 +16,19 @@ The foundation of success lies in the organization itself. It requires a mix of 
 			<div class="card-body">
 				<h4 class="card-title">High Performance Teams</h4>
 				<p class="card-text">Building a high performance organizational culture - transformational leaders and strong development teams.</p>
+				
+				<p>To build high performance teams:</p>
+				
+				<ul>
+					<li>Vision & Mission</li>
+					<li>Values & Culture</li>
+					<li>Leadership, Management & Teamwork</li>
+				</ul>
+				
 			</div>
 		</div>
 		
-		<p>To build high performance teams:</p>
+		
 		
 
 		<div class="card bg-light mb-3">
@@ -53,15 +62,31 @@ The foundation of success lies in the organization itself. It requires a mix of 
 			<div class="card-body">
 				<h4 class="card-title">Lean &amp; Agile Processes</h4>
 				<p class="card-text">Supporting organizations to achieve continuous iterative-value delivery and continuous improvement.</p>
+				
+				<p>To implement effective processes:</p>	
+				
+				<ul>
+					<li>Methodology & Tools</li>
+					<li>Documentation</li>
+					<li>Communication</li>
+				</ul>
+				
 			</div>
 		</div>
 
-		<p>To implement effective processes:</p>		
+			
 
 		<div class="card bg-light mb-3">
 			<div class="card-header">Methodology & Tools</div>
 			<div class="card-body">
 				<p class="card-text">Adopt the Lean &amp; Agile Methodology and relevant Tools which help your team to achieve continuous delivery and improvement.</p>
+			</div>
+		</div>
+
+		<div class="card bg-light mb-3">
+			<div class="card-header">Documentation</div>
+			<div class="card-body">
+				<p class="card-text">Ensure that the right Documentation processes are in place, to ensure that both product and technical knowledge is shared across the team and building the organizational knowledge-base.</p>
 			</div>
 		</div>
 		
@@ -72,12 +97,7 @@ The foundation of success lies in the organization itself. It requires a mix of 
 			</div>
 		</div>
 		
-		<div class="card bg-light mb-3">
-			<div class="card-header">Documentation</div>
-			<div class="card-body">
-				<p class="card-text">Ensure that the right Documentation processes are in place, to ensure that both product and technical knowledge is shared across the team and building the organizational knowledge-base.</p>
-			</div>
-		</div>
+		<!-- TODO: VC: Switch ordering -->
 		
 	</div>
 	
@@ -88,10 +108,17 @@ The foundation of success lies in the organization itself. It requires a mix of 
 			<div class="card-body">
 				<h4 class="card-title">High Value &amp; Quality Products</h4>
 				<p class="card-text">Building high quality products, delivering value and making customers really happy, win-win for everyone.</p>
+				
+				<p>To deliver high value and high quality products:</p>
+				
+				<ul>
+					<li>Business Requirements</li>
+					<li>Architecture & Development</li>
+					<li>Quality & Delivery</li>
+				</ul>
+				
 			</div>
 		</div>
-		
-		<p>To deliver high value and high quality products:</p>
 		
 		<div class="card bg-light mb-3">
 			<div class="card-header">Business Requirements</div>
