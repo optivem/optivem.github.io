@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Leadership
+title: Opticodex - Leadership
 description: Opticodex - Leadership
 ---
 
