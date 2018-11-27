@@ -5,7 +5,44 @@ description: The core standards and best practices behind high performance IT or
 permalink: /codex
 ---
 
-The foundation of success lies in the organization itself.
+The foundation of success lies in the organization itself. It requires a mix of the 3P's: People, Processes and Product.
+
+
+<div class="row">
+
+	<div class="col-sm-4">
+		<div class="card text-white bg-dark mb-3">
+			<div class="card-header">Pillar 1 - People</div>
+			<div class="card-body">
+				<h4 class="card-title">High Performance Teams</h4>
+				<p class="card-text">Building a high performance organizational culture - transformational leaders and strong development teams.</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-4">
+		<div class="card text-white bg-dark mb-3">
+			<div class="card-header">Pillar 2 - Processes</div>
+			<div class="card-body">
+				<h4 class="card-title">Lean & Agile Development Processes</h4>
+				<p class="card-text">Supporting organizations to achieve continuous iterative-value delivery and continuous improvement.</p>
+			</div>
+		</div>
+	</div>
+	
+	<div class="col-sm-4">
+		<div class="card text-white bg-dark mb-3">
+			<div class="card-header">Pillar 3 - Product</div>
+			<div class="card-body">
+				<h4 class="card-title">High Value & Quality Products</h4>
+				<p class="card-text">Building high quality products, delivering value and making customers really happy, win-win for everyone.</p>
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
 
 <h2>Pillar 1 - People</h2>
 
@@ -54,7 +91,9 @@ foundations
 
 
 
+<!-- TODO: VC: DELETE -->
 
+<!--
 
 
 
@@ -69,43 +108,6 @@ foundations
 
 
 
-<div class="row">
-
-
-	<div class="col-sm-4">
-		<div class="card text-white bg-dark mb-3">
-			<div class="card-header">Pillar 1 - People</div>
-			<div class="card-body">
-				<h4 class="card-title">High Performance Teams</h4>
-				<p class="card-text">Building a high performance organizational culture - transformational leaders and strong development teams.</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="col-sm-4">
-		<div class="card text-white bg-dark mb-3">
-			<div class="card-header">Pillar 2 - Processes</div>
-			<div class="card-body">
-				<h4 class="card-title">Lean-Agile Processes</h4>
-				<p class="card-text">Supporting organizations to achieve continuous iterative-value delivery and continuous improvement.</p>
-			</div>
-		</div>
-	</div>
-	
-	<div class="col-sm-4">
-		<div class="card text-white bg-dark mb-3">
-			<div class="card-header">Pillar 3 - Product</div>
-			<div class="card-body">
-				<h4 class="card-title">High Quality Products</h4>
-				<p class="card-text">Building high quality products, delivering value and making customers really happy, win-win for everyone.</p>
-			</div>
-		</div>
-	</div>
-
-
-
-
-</div>
 
 
 
@@ -169,6 +171,8 @@ foundations
   
 </div>
 
+
+-->
 
 
 
