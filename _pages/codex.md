@@ -55,7 +55,7 @@ The foundation of success lies in the organization itself. It requires a mix of 
 		<div class="card text-white bg-dark mb-3">
 			<div class="card-header">Pillar 3 - Product</div>
 			<div class="card-body">
-				<h4 class="card-title">High Value & Quality Products</h4>
+				<h4 class="card-title">High Value &amp; Quality Products</h4>
 				<p class="card-text">Building high quality products, delivering value and making customers really happy, win-win for everyone.</p>
 			</div>
 		</div>
