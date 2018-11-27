@@ -63,27 +63,6 @@ The foundation of success lies in the organization itself. It requires a mix of 
 		<p>To deliver high value and high quality products:
 		
 		<ul>
-			<li>Connect business and technology, analyze the business and ROI opportunities, set Requirements which will deliver highest value to the customer</li>
-			<li>Build a solid technical foundation with maintainable and extensible Architecture and best practices in Development to ensure technical excellence</li>
-			<li>Ensure that Quality is at every phase of development, from start to finish, and provide continuous Delivery so that customers get iterative business value</li>
-
-		</ul>
-		
-	</div>
-	
-	
-	<div class="col-sm-4">
-		<div class="card text-white bg-dark mb-3">
-			<div class="card-header">Pillar 3 - Product</div>
-			<div class="card-body">
-				<h4 class="card-title">High Value &amp; Quality Products</h4>
-				<p class="card-text">Building high quality products, delivering value and making customers really happy, win-win for everyone.</p>
-			</div>
-		</div>
-		
-		<p>To deliver high value and high quality products:
-		
-		</p><ul>
 			<li>Connect business and technology, analyze the business and ROI opportunities, set Requirements which will deliver high value</li>
 			<li>Build a solid technical foundation with maintainable and extensible Architecture and best practices in Development to ensure technical excellence</li>
 			<li>Ensure that Quality is at every phase of development, from start to finish, and provide continuous Delivery so that customers get iterative business value</li>
