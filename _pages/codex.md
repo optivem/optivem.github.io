@@ -50,6 +50,13 @@ foundations
 -->
 
 
+<p>
+
+
+
+<div class="alert alert-info" role="alert">
+  Area below is under construction!
+</div>
 
 <div class="card bg-light mb-3" style="">
 	<div class="card-header">First Pillar</div>
