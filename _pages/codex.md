@@ -21,6 +21,18 @@ The foundation of success lies in the organization itself. It requires a mix of 
 		
 		<p>To build high performance teams:</p>
 		
+		<h5>Vision & Mission</h5>
+		
+		<p>Ignite an inspiring <a href="{{ site.url }}/codex/vision">Vision</a> and <a href="{{ site.url }}/codex/mission">Mission</a> to set the organization moving towards goals and a sense of purpose.</p>
+		
+		<h5>Values & Culture</h5>
+		
+		<p>Lay the foundations through organizational values Values and a <a href="{{ site.url }}/codex/culture">Culture</a> which empowers your team to reach the next level of performance</p>
+		
+		<h5>Leadership, Management & Teamwork</h5>
+		
+		<p>Realize the organizational vision through transformational Leadership, efficient Management and strong Teamwork, inspiring your team to achieve the organizational goals</p>
+		
 		<ul>
 			<li>Ignite an inspiring <a href="{{ site.url }}/codex/vision">Vision</a> and <a href="{{ site.url }}/codex/mission">Mission</a> to set the organization moving towards goals and a sense of purpose</li>
 			<li>Lay the foundations through organizational values Values and a <a href="{{ site.url }}/codex/culture">Culture</a> which empowers your team to reach the next level of performance</li>
