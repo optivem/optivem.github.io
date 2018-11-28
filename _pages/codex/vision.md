@@ -51,9 +51,9 @@ description: Organizational vision sets the powerful goals and aspirations for h
 			<div class="card-body">
 				<h4 class="card-title"></h4>
 				
-				<ul class="card-text">
-					<li><a href="https://www.businessnewsdaily.com/3882-vision-statement.html" target="_blank">What is a Vision Statement? (Business News Daily)</a></li>
-				</ul>
+				<div class="card-text">
+					<p href="https://www.businessnewsdaily.com/3882-vision-statement.html" target="_blank">What is a Vision Statement? (Business News Daily)</p>
+				</div>
 			</div>
 		</div>
 	
