@@ -26,12 +26,6 @@ description: Organizational vision sets the powerful goals and aspirations for h
 	
 		<p>A well-defined vision results very clear goals for the entire organization, across both management and operational levels. It gives everyone a sense of purpose, and achieving goals that lead towards that vision provides both leaders and employees satisfaction. This further motivates everyone to continually grow the organization, with every step moving up and up, closer and closer to the vision, the whole organization moving towards a shared target. These benefits extend beyond the boundaries of the organization - it grows trust not only between employees but also in interactions with customers and suppliers, leading to strong long-term relationships woven around the vision.</p>
 	
-		<h2>References</h2>
-
-		<ul>
-			<li><a href="https://www.businessnewsdaily.com/3882-vision-statement.html" target="_blank">What is a Vision Statement? (Business News Daily)</a></li>
-		</ul>
-	
 	</div>
 
 	
@@ -49,6 +43,17 @@ description: Organizational vision sets the powerful goals and aspirations for h
 			<div class="card-body">
 				<h4 class="card-title"></h4>
 				<p class="card-text">The foundation of successful organization lies in strong and crystal-clear vision statements which are "lived" through the minds of people across all the organizational levels. Employees are motivated by achieving goals which move the organization towards the vision. The vision sends a clear message to the customers and promotes trusting relationships.</p>
+			</div>
+		</div>
+		
+		<div class="card bg-light mb-3">
+			<div class="card-header">References and Links</div>
+			<div class="card-body">
+				<h4 class="card-title"></h4>
+				
+				<ul class="card-text">
+					<li><a href="https://www.businessnewsdaily.com/3882-vision-statement.html" target="_blank">What is a Vision Statement? (Business News Daily)</a></li>
+				</ul>
 			</div>
 		</div>
 	
