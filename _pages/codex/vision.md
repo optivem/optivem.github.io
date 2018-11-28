@@ -33,7 +33,7 @@ description: Organizational vision sets the powerful goals and aspirations for h
 	
 	<div class="col-md-4">
 		
-		<div class="card text-white bg-danger">
+		<div class="card text-white bg-danger mb-3">
 			<div class="card-header">Warning signs</div>
 			<div class="card-body">
 				<h4 class="card-title">Missing, weak or inconsistent vision</h4>
@@ -41,7 +41,7 @@ description: Organizational vision sets the powerful goals and aspirations for h
 			</div>
 		</div>
 
-		<div class="card text-white bg-danger">
+		<div class="card text-white bg-success mb-3">
 			<div class="card-header">Best practices</div>
 			<div class="card-body">
 				<h4 class="card-title">Clear strong vision</h4>
