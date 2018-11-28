@@ -38,46 +38,22 @@ description: Organizational vision sets the powerful goals and aspirations for h
 	<div class="col-md-4">
 		
 		<div class="card text-white bg-danger mb-3">
-			<div class="card-header">Warning signs</div>
+			<div class="card-header">Poorly defined vision</div>
 			<div class="card-body">
-				<h4 class="card-title">Poorly defined vision</h4>
-				
-				<div class="card-text">
-
-					<ul>
-						<li>There is no vision statement defined at all</li>
-						<li>The vision statement is very unclear or vague</li>
-						<li>The written vision statement conflits with the vision promoted by leaders</li>
-					</ul>
-					
-					<p>The result is that people are moving in opposing directions and the organization fails to achieve its vision.</p>
-				
-				</div>
-				
-
-				
-				
+				<p class="card-text">In some organizations there is no vision statement defined at all, not even formally. However, more commonly, there is a vision statement but it is unclear or vague, or the formal vision differs from the vision promoted by leadership in practice. The result is that people are moving in opposing directions and the organization fails to achieve its vision.</p>
+				</p>
 			</div>
 		</div>
 
 		<div class="card text-white bg-success mb-3">
-			<div class="card-header">Best practices</div>
+			<div class="card-header">Strong clear vision</div>
 			<div class="card-body">
-				<h4 class="card-title">Clear strong vision</h4>
-				<p class="card-text">
-					<ul>
-						<li></li>
-						<li></li>
-						<li></li>
-					</ul>
-				</p>
+				<h4 class="card-title"></h4>
+				<p class="card-text">The foundation of successful organization lies in strong and crystal-clear vision statements which are "lived" through the minds of people across all the organizational levels. Decisions are made based on moving the organization one step closer to the vision. The vision strengthens bonds between employees and promotes trusting relationships with clients.</p>
 			</div>
 		</div>
 	
 	</div>
-
-
-
 
 </div>
 
