@@ -41,7 +41,6 @@ description: Organizational vision sets the powerful goals and aspirations for h
 			<div class="card-header">Poorly defined vision</div>
 			<div class="card-body">
 				<p class="card-text">In some organizations there is no vision statement defined at all, not even formally. However, more commonly, there is a vision statement but it is unclear or vague, or the formal vision differs from the vision promoted by leadership in practice. The result is that people are moving in opposing directions and the organization fails to achieve its vision.</p>
-				</p>
 			</div>
 		</div>
 
@@ -49,7 +48,7 @@ description: Organizational vision sets the powerful goals and aspirations for h
 			<div class="card-header">Strong clear vision</div>
 			<div class="card-body">
 				<h4 class="card-title"></h4>
-				<p class="card-text">The foundation of successful organization lies in strong and crystal-clear vision statements which are "lived" through the minds of people across all the organizational levels. Decisions are made based on moving the organization one step closer to the vision. The vision strengthens bonds between employees and promotes trusting relationships with clients.</p>
+				<p class="card-text">The foundation of successful organization lies in strong and crystal-clear vision statements which are "lived" through the minds of people across all the organizational levels. Employees are motivated by achieving goals which move the organization towards the vision. The vision sends a clear message to the customers and promotes trusting relationships.</p>
 			</div>
 		</div>
 	
