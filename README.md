@@ -14,9 +14,9 @@ Optivem helps IT organizations to:
 
 Documentation can be found on the [Optivem Wiki](https://github.com/optivem/optivem.github.io/wiki) page.
 
-## Release Plan
+## Upcoming Milestones
 
-To find out about releases and what's planned next, please refer to the [Project Plan](https://github.com/optivem/optivem.github.io/wiki/Project-Plan) page.
+To find out about releases and what's planned next, please refer to the [Open Milestones](https://github.com/optivem/optivem.github.io/milestones?direction=asc&sort=due_date&state=open) page.
 
 ## Contact & Feedback
 
