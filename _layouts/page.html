@@ -29,13 +29,16 @@ layout: default
 	
     <div class="container">
 		{{content}}
+		
+		<div class="comments">
+			{% include disqus.html disqus_identifier=page.disqus_identifier %}
+		</div>
+		
     </div>
 
 	{% include copyright.html %}
 	
 	{% include scripts.html %}
-	
-	{% include disqus.html %}
 	
   </body>
 </html>
