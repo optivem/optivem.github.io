@@ -5,3 +5,4 @@ show_downloads: true
 
 gems:
   - jekyll-mentions
+theme: jekyll-theme-cayman
