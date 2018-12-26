@@ -31,8 +31,8 @@ This enables your software development team to appropriately choose to depend on
 
 Libraries for application core for business logic and data abstraction:
 
-Interfaces | Abstract Bases | Concrete Implementations |
-| ------------- | ------------- | -- |
+| Interfaces | Abstract Bases | Concrete Implementations |
+| ------------- | ------------- | ------------- |
 | Entity | Entity.Base | N/A |
 | Repository | Repository.Base | Repository.EntityFramework <br> Repository.Dapper <br> Repository.AdoNet <br> Repository.MongoDb <br> Repository.Cassandra |
 | UnitOfWork | UnitOfWork.Base | UnitOfWork.EntityFramework <br> UnitOfWork.Dapper <br> UnitOfWork.AdoNet <br> UnitOfWork.MongoDb <br> UnitOfWork.Cassandra |
@@ -41,7 +41,7 @@ Interfaces | Abstract Bases | Concrete Implementations |
 
 Infrastructure libraries for cross-cutting concerns:
 
-Interface | Abstract Base | Concrete Implementations |
+| Interface | Abstract Base | Concrete Implementations |
 | ------------- | ------------- | ------------- |
 | [Parser](https://opensource.optivem.com/csharp-parser/) | Parser.Base | Parser.Standard |
 | Mapping | Mapping.Base | Mapping.Standard |
@@ -55,10 +55,13 @@ Interface | Abstract Base | Concrete Implementations |
 | Workflow | N/A | TBD  |
 | Queue | N/A | TBD  |
 | Process | N/A | Process.Standard <br> Process.Remote  |
-| Notification | N/A | Notification.SignalR  |
+| Notification | N/A | Notification.SignalR <br> Notification.Email |
+| Configuration | N/A | Configuration.Standard  |
 
 Infrastructure libraries for integration with external systems:
 
+| Interface | Abstract Base | Concrete Implementations |
+| ------------- | ------------- | ------------- |
 | Clock | N/A | Clock.Standard |
 | FileSystem | N/A | FileSystem.Standard <br> FileSystem.Ftp |
 | Email | N/A  | Email.Gmail <br> Email.Outlook <br> Email.SendGrid |
