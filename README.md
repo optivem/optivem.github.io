@@ -34,8 +34,10 @@ Libraries for application core for business logic and data abstraction:
 Interfaces | Abstract Bases | Concrete Implementations |
 | ------------- | ------------- | -- |
 | Entity | Entity.Base | N/A |
-| Repository | Repository.Base | Repository.EntityFramework <br> Repository.Dapper <br> Repository.AdoNet <br> Repository.MongoDb |
+| Repository | Repository.Base | Repository.EntityFramework <br> Repository.Dapper <br> Repository.AdoNet <br> Repository.MongoDb <br> Repository.Cassandra |
+| UnitOfWork | UnitOfWork.Base | UnitOfWork.EntityFramework <br> UnitOfWork.Dapper <br> UnitOfWork.AdoNet <br> UnitOfWork.MongoDb <br> UnitOfWork.Cassandra |
 | Service | Service.Base | N/A |
+| Controller | Controller.Base | N/A |
 
 Infrastructure libraries for cross-cutting concerns:
 
@@ -45,12 +47,15 @@ Interface | Abstract Base | Concrete Implementations |
 | Mapping | Mapping.Base | Mapping.Standard |
 | Validation | Validation.Base | Validation.Standard |
 | Serialization | Serialization.Base | Serialization.Json <br> Serialization.Xml <br> Serialization.Csv <br> Serialization.Excel |
-| Logging | N/A  | Logging.Log4Net |
+| Logging | N/A  | Logging.Log4Net <br> Logging.NLog |
 | Messaging | N/A | TBD |
+| Identity | Identity.Base | Identity.AspNetIdentity |
 | Authentication | N/A | Authentication.OAuth  |
 | Authorization | N/A | Authorization.OAuth  |
 | Workflow | N/A | TBD  |
 | Queue | N/A | TBD  |
+| Process | N/A | Process.Standard <br> Process.Remote  |
+| Notification | N/A | Notification.SignalR  |
 
 Infrastructure libraries for integration with external systems:
 
@@ -63,7 +68,10 @@ Infrastructure libraries for integration with external systems:
 | SoapClient | N/A  | TBD  |
 | SoapService | N/A | TBD  |
 
-<!-- TODO: VC: Check regarding PDF and also DSV, additionally UOW and also design patterns, e.g. factory and builder... azure.. amazon...  -->
+<!-- TODO: VC: Check regarding PDF and also DSV, additionally UOW and also design patterns, e.g. factory and builder... azure.. amazon... configuration, testing, sql lite, NHibernate, DDD, CQRS, Domain... IoC -> AutoFac, Ninject, Unity, Kafka  -->
+
+
+<!-- TODO: VC: Search infrastructure https://www.nuget.org/packages?page=8&q=infrastructure -->
 
 
 ### Optivem Java Libraries
