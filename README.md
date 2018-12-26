@@ -29,22 +29,37 @@ This enables your software development team to appropriately choose to depend on
 
 ### Optivem .NET Core 2 Libraries
 
-Libraries for application core:
+Libraries for application core for business logic and data abstraction:
 
-| Library | Interfaces | Abstract Base |
+Interfaces | Abstract Bases | Concrete Implementations |
+| ------------- | ------------- | -- |
+| Entity | Entity.Base | N/A |
+| Repository | Repository.Base | Repository.EntityFramework <br> Repository.Dapper <br> Repository.AdoNet |
+| Service | Service.Base | N/A |
+
+Infrastructure libraries for cross-cutting concerns:
+
+Interface | Abstract Base | Concrete Implementations |
 | ------------- | ------------- | ------------- |
-| Entity | Optivem.Entity | Optivem.Entity.Base |
-| Repository | Optivem.Repository | Optivem.Repository.Base |
-| Service | Optivem.Service | Optivem.Service.Base |
+| [Parser](https://opensource.optivem.com/csharp-parser/) | Parser.Base | Parser.Standard |
+| Mapping | Mapping.Base | Mapping.Standard |
+| Validation | Validation.Base | Validation.Standard |
+| Serialization | Serialization.Base | Serialization.Json <br> Serialization.Xml <br> Serialization.Csv <br> Serialization.Excel |
+| Logging | N/A  | Logging.Log4Net |
+| Messaging | N/A | TBD |
+| Authentication | N/A | Authentication.OAuth  |
+| Authorization | N/A | Authorization.OAuth  |
+| Clock | N/A | Clock.Standard |
+| FileSystem | N/A | FileSystem.Standard <br> FileSystem.Ftp |
+| Email | N/A  | Email.Gmail <br> Email.Outlook |
+| RestClient | N/A  | RestClient.RestSharp  |
+| RestService | N/A  | RestService.AspNetCore  |
+| SoapClient | N/A  | TBD  |
+| SoapService | N/A | TBD  |
+| Workflow | N/A | TBD  |
+| Queue | N/A | TBD  |
 
-Infrastructure libraries:
-
-| Library | Interfaces | Abstract Base | Concrete Implementations | 
-| ------------- | ------------- | ------------- | ------------- |
-| Parser | Optivem.Parser | Optivem.Parser.Base | Optivem.Parser.Standard |
-| Serialization | Optivem.Serialization | Optivem.Serialization.Base | Optivem.Serialization.Json <br> Optivem.Serialization.Xml <br> Optivem.Serialization.Csv |
-| A | Optivem. | Optivem. | Optivem. |
-
+<!-- TODO: VC: Check regarding PDF and also DSV, additionally UOW and also design patterns, e.g. factory and builder -->
 
 
 ### Optivem Java Libraries
