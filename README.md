@@ -43,7 +43,7 @@ Infrastructure libraries for cross-cutting concerns:
 
 | Interface | Abstract Base | Concrete Implementations |
 | ------------- | ------------- | ------------- |
-| [Parser](https://opensource.optivem.com/csharp-parser/) | Parser.Base | Parser.Standard |
+| [Parsing](https://opensource.optivem.com/csharp-parsing) | [Parsing.Base](https://opensource.optivem.com/csharp-parsing-base) | [Parsing.Standard](https://opensource.optivem.com/csharp-parsing-standard) |
 | Mapping | Mapping.Base | Mapping.Standard |
 | Validation | Validation.Base | Validation.Standard |
 | Serialization | Serialization.Base | Serialization.Json <br> Serialization.Xml <br> Serialization.Csv <br> Serialization.Excel |
