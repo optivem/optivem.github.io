@@ -1,7 +1,11 @@
 title: Optivem Open Source Software
 description: Open Source Software for Enterprise Applications
 google_analytics: UA-63306472-4
-show_downloads: true
+show_downloads: false
+theme: jekyll-theme-cayman
+
+github:
+  is_project_page: false
 
 gems:
   - jekyll-mentions
