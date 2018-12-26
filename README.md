@@ -34,7 +34,7 @@ Libraries for application core for business logic and data abstraction:
 Interfaces | Abstract Bases | Concrete Implementations |
 | ------------- | ------------- | -- |
 | Entity | Entity.Base | N/A |
-| Repository | Repository.Base | Repository.EntityFramework <br> Repository.Dapper <br> Repository.AdoNet |
+| Repository | Repository.Base | Repository.EntityFramework <br> Repository.Dapper <br> Repository.AdoNet <br> Repository.MongoDb |
 | Service | Service.Base | N/A |
 
 Infrastructure libraries for cross-cutting concerns:
@@ -49,17 +49,21 @@ Interface | Abstract Base | Concrete Implementations |
 | Messaging | N/A | TBD |
 | Authentication | N/A | Authentication.OAuth  |
 | Authorization | N/A | Authorization.OAuth  |
-| Clock | N/A | Clock.Standard |
-| FileSystem | N/A | FileSystem.Standard <br> FileSystem.Ftp |
-| Email | N/A  | Email.Gmail <br> Email.Outlook |
-| RestClient | N/A  | RestClient.RestSharp  |
-| RestService | N/A  | RestService.AspNetCore  |
-| SoapClient | N/A  | TBD  |
-| SoapService | N/A | TBD  |
 | Workflow | N/A | TBD  |
 | Queue | N/A | TBD  |
 
-<!-- TODO: VC: Check regarding PDF and also DSV, additionally UOW and also design patterns, e.g. factory and builder -->
+Infrastructure libraries for integration with external systems:
+
+| Clock | N/A | Clock.Standard |
+| FileSystem | N/A | FileSystem.Standard <br> FileSystem.Ftp |
+| Email | N/A  | Email.Gmail <br> Email.Outlook <br> Email.SendGrid |
+| Cloud | N/A  | Cloud.Azure <br> Cloud.Aws <br> Email.Google |
+| RestClient | N/A  | RestClient.RestSharp |
+| RestService | N/A  | RestService.AspNetCore |
+| SoapClient | N/A  | TBD  |
+| SoapService | N/A | TBD  |
+
+<!-- TODO: VC: Check regarding PDF and also DSV, additionally UOW and also design patterns, e.g. factory and builder... azure.. amazon...  -->
 
 
 ### Optivem Java Libraries
