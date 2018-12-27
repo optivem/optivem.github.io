@@ -31,45 +31,45 @@ This enables your software development team to appropriately choose to depend on
 
 Libraries for application core for business logic and data abstraction:
 
-| Interfaces | Abstract Bases | Concrete Implementations |
-| ------------- | ------------- | ------------- |
-| Entity | Entity.Base | N/A |
-| Repository | Repository.Base | Repository.EntityFramework <br> Repository.Dapper <br> Repository.AdoNet <br> Repository.MongoDb <br> Repository.Cassandra |
-| UnitOfWork | UnitOfWork.Base | UnitOfWork.EntityFramework <br> UnitOfWork.Dapper <br> UnitOfWork.AdoNet <br> UnitOfWork.MongoDb <br> UnitOfWork.Cassandra |
-| Service | Service.Base | N/A |
-| Controller | Controller.Base | N/A |
+| Interfaces | Implementations |
+| ------------- | ------------- |
+| Entity | Entity.Default |
+| Repository | Repository.EntityFramework <br> Repository.Dapper <br> Repository.AdoNet <br> Repository.MongoDb <br> Repository.Cassandra |
+| UnitOfWork | UnitOfWork.EntityFramework <br> UnitOfWork.Dapper <br> UnitOfWork.AdoNet <br> UnitOfWork.MongoDb <br> UnitOfWork.Cassandra |
+| Service | Service.Default |
+| Controller | Controller.Default |
 
 Infrastructure libraries for cross-cutting concerns:
 
-| Interface | Abstract Base | Concrete Implementations |
-| ------------- | ------------- | ------------- |
-| [Parsing](https://opensource.optivem.com/csharp-parsing) | [Parsing.Base](https://opensource.optivem.com/csharp-parsing-base) | [Parsing.Standard](https://opensource.optivem.com/csharp-parsing-standard) |
-| Mapping | Mapping.Base | Mapping.Standard |
-| Validation | Validation.Base | Validation.Standard |
-| Serialization | Serialization.Base | Serialization.Json <br> Serialization.Xml <br> Serialization.Csv <br> Serialization.Excel |
-| Logging | N/A  | Logging.Log4Net <br> Logging.NLog |
-| Messaging | N/A | TBD |
-| Identity | Identity.Base | Identity.AspNetIdentity |
-| Authentication | N/A | Authentication.OAuth  |
-| Authorization | N/A | Authorization.OAuth  |
-| Workflow | N/A | TBD  |
-| Queue | N/A | TBD  |
-| Process | N/A | Process.Standard <br> Process.Remote  |
-| Notification | N/A | Notification.SignalR <br> Notification.Email |
-| Configuration | N/A | Configuration.Standard  |
+| Interface | Implementations |
+| ------------- | ------------- |
+| [Parsing](https://opensource.optivem.com/csharp-parsing) | [Parsing.Standard](https://opensource.optivem.com/csharp-parsing-standard) |
+| Mapping | Mapping.Standard |
+| Validation | Validation.Standard |
+| Serialization | Serialization.Json <br> Serialization.Xml <br> Serialization.Csv <br> Serialization.Excel |
+| Logging | Logging.Log4Net <br> Logging.NLog |
+| Messaging | TBD |
+| Identity | Identity.AspNetIdentity |
+| Authentication | Authentication.OAuth  |
+| Authorization | Authorization.OAuth  |
+| Workflow | TBD  |
+| Queue | TBD  |
+| Process | Process.Standard <br> Process.Remote  |
+| Notification | Notification.SignalR <br> Notification.Email |
+| Configuration | Configuration.Standard  |
 
 Infrastructure libraries for integration with external systems:
 
-| Interface | Abstract Base | Concrete Implementations |
-| ------------- | ------------- | ------------- |
-| Clock | N/A | Clock.Standard |
-| FileSystem | N/A | FileSystem.Standard <br> FileSystem.Ftp |
-| Email | N/A  | Email.Gmail <br> Email.Outlook <br> Email.SendGrid |
-| Cloud | N/A  | Cloud.Azure <br> Cloud.Aws <br> Email.Google |
-| RestClient | N/A  | RestClient.RestSharp |
-| RestService | N/A  | RestService.AspNetCore |
-| SoapClient | N/A  | TBD  |
-| SoapService | N/A | TBD  |
+| Interface | Implementations |
+| ------------- | ------------- |
+| Clock | Clock.Standard |
+| FileSystem | FileSystem.Standard <br> FileSystem.Ftp |
+| Email | Email.Gmail <br> Email.Outlook <br> Email.SendGrid |
+| Cloud | Cloud.Azure <br> Cloud.Aws <br> Email.Google |
+| RestClient | RestClient.RestSharp |
+| RestService | RestService.AspNetCore |
+| SoapClient | TBD |
+| SoapService | TBD |
 
 <!-- TODO: VC: Check regarding PDF and also DSV, additionally UOW and also design patterns, e.g. factory and builder... azure.. amazon... configuration, testing, sql lite, NHibernate, DDD, CQRS, Domain... IoC -> AutoFac, Ninject, Unity, Kafka  -->
 
