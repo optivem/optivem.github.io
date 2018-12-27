@@ -23,7 +23,7 @@ Each library is split into:
 * Abstract base classes
 * Concrete implementations
 
-This enables your software development team to appropriately choose to depend on interfaces and within IoC container to configure implementations and execute unit testing. Furthermore, it also enables development teams to either choose to use the standard provided implementations or develop custom implementations.
+This enables your software development team to appropriately choose to depend on interfaces and within IoC container to configure implementations and execute unit testing. Furthermore, it also enables development teams to either choose to use the default provided implementations or develop custom implementations.
 
 ## Optivem Libraries
 
@@ -43,9 +43,9 @@ Infrastructure libraries for cross-cutting concerns:
 
 | Interface | Implementations |
 | ------------- | ------------- |
-| [Parsing](https://opensource.optivem.com/csharp-parsing) | [Parsing.Standard](https://opensource.optivem.com/csharp-parsing-standard) |
-| Mapping | Mapping.Standard |
-| Validation | Validation.Standard |
+| [Parsing](https://opensource.optivem.com/csharp-parsing) | [Parsing.Default](https://opensource.optivem.com/csharp-parsing-default) |
+| Mapping | Mapping.Default |
+| Validation | Validation.Default |
 | Serialization | Serialization.Json <br> Serialization.Xml <br> Serialization.Csv <br> Serialization.Excel |
 | Logging | Logging.Log4Net <br> Logging.NLog |
 | Messaging | TBD |
@@ -54,16 +54,16 @@ Infrastructure libraries for cross-cutting concerns:
 | Authorization | Authorization.OAuth  |
 | Workflow | TBD  |
 | Queue | TBD  |
-| Process | Process.Standard <br> Process.Remote  |
+| Process | Process.Default <br> Process.Remote  |
 | Notification | Notification.SignalR <br> Notification.Email |
-| Configuration | Configuration.Standard  |
+| Configuration | Configuration.Default  |
 
 Infrastructure libraries for integration with external systems:
 
 | Interface | Implementations |
 | ------------- | ------------- |
-| Clock | Clock.Standard |
-| FileSystem | FileSystem.Standard <br> FileSystem.Ftp |
+| Clock | Clock.Default |
+| FileSystem | FileSystem.Default <br> FileSystem.Ftp |
 | Email | Email.Gmail <br> Email.Outlook <br> Email.SendGrid |
 | Cloud | Cloud.Azure <br> Cloud.Aws <br> Email.Google |
 | RestClient | RestClient.RestSharp |
