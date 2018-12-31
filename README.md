@@ -81,6 +81,23 @@ Infrastructure libraries for integration with external systems:
 
 Pending to be released. 
 
+## Instructions
+
+# C# Instructions
+
+* Visual Studio Community 2017 Version 15.9.4
+* SQL Server Express 14.0
+* SQL Server Management Studio v17.8.1
+* Microsoft .NET Core SDK 2.2.101
+
+# Java Instructions
+
+Pending
+
+# Other Tools
+
+* Postman 6.6.1
+
 ## Feedback
 
 You can send questions, improvement suggestions and issue reports on [GitHub](https://github.com/optivem/optivem.github.io/issues/new). These will be used to further improve our open source software.
