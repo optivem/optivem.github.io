@@ -85,10 +85,10 @@ Pending to be released.
 
 # C# Instructions
 
-* Visual Studio Community 2017 Version 15.9.4
-* SQL Server Express 14.0
-* SQL Server Management Studio v17.8.1
-* Microsoft .NET Core SDK 2.2.101
+* Visual Studio Community 2017 Version 15.9.4 - [Download Visual Studio Community Version](https://visualstudio.microsoft.com/vs/community/)
+* SQL Server Express 14.0 - [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
+* SQL Server Management Studio v17.8.1 - [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
+* Microsoft .NET Core SDK 2.2.101 - [Download .NET Core SDK](https://dotnet.microsoft.com/download)
 
 # Java Instructions
 
@@ -96,7 +96,7 @@ Pending
 
 # Other Tools
 
-* Postman 6.6.1
+* Postman 6.6.1 - [Download Postman](https://www.getpostman.com/apps)
 
 ## Feedback
 
