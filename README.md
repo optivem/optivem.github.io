@@ -94,6 +94,16 @@ Pending to be released.
 
 Pending
 
+# Angular Instructions
+
+* Visual Studio Code - [Download Visual Studio Code](https://code.visualstudio.com/)
+* Visual Studio Code - Extension - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) 
+* Node.js - [Download Node.js](https://nodejs.org/en/)
+* Angular 7 CLI - [Download Angular CLI](https://cli.angular.io/)
+* Angular 7 - [Download Angular](https://angular.io/) 
+
+For installation instructions, see the following tutorial [Angular 7 Tutorial: Building CRUD Web Application](https://www.djamware.com/post/5bca67d780aca7466989441f/angular-7-tutorial-building-crud-web-application)
+
 # Other Tools
 
 * Postman 6.6.1 - [Download Postman](https://www.getpostman.com/apps)
