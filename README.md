@@ -25,6 +25,12 @@ Each library is split into:
 
 This enables your software development team to appropriately choose to depend on interfaces and within IoC container to configure implementations and execute unit testing. Furthermore, it also enables development teams to either choose to use the default provided implementations or develop custom implementations.
 
+## Project Websites
+
+
+* [Platform (.NET Core 2.2)](https://opensource.optivem.com/platform-dotnetcore)
+* [Northwind (.NET Core 2.2)](https://opensource.optivem.com/northwind-dotnetcore)
+
 ## Optivem Libraries
 
 ### Optivem .NET Core 2 Libraries
@@ -43,7 +49,7 @@ Infrastructure libraries for cross-cutting concerns:
 
 | Interface | Implementations |
 | ------------- | ------------- |
-| [Parsing](https://opensource.optivem.com/csharp-parsing) | [Parsing.Default](https://opensource.optivem.com/csharp-parsing-default) |
+| Parsing | Parsing.Default |
 | Mapping | Mapping.Default |
 | Validation | Validation.Default |
 | Serialization | Serialization.Json <br> Serialization.Xml <br> Serialization.Csv <br> Serialization.Excel |
