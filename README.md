@@ -1,118 +1,84 @@
 ## Introduction
 
-Welcome to Optivem Open Source Software (OSS), designed to support Enterprise Application Software (EAS) development. This contains a set of libraries designed to solve common technical needs in enterprise software development. 
+Are you a leader in an enterprise software development organization, interested in producing quality software? Have you experienced the challenges in managing software projects - satisfying customers' needs to produce software faster, but yet at the same time, facing quality issues? Have you seen systems which rapidly deteriorated in quality, whereby the architecture is a "big ball of mud", and low code quality - and the decreased productivity of the whole team? Is there an increasing pile of bugs, and are changes taking longer and longer to implement, breaking existing functionality? Do you face challenges in incorporating new team members, increasing the technical level of your team, and incorporating code standards and quality control? 
 
-### Purpose
+Are you looking for a solution which will enable you to:
+* Implement high quality enterprise software in your software teams
+* Increase the productivity across your team, from junior to senior level
+* Support extensible and maintainable architecture to reduce total development cost
 
-The purpose of Optivem OSS is to help IT organizations to:
-* Empower high performance development teams
-* Support extensible and maintainable architecture
-* Implement high quality enterprise software
+If you've answered "yes", then you've come to the right place. Welcome to Optivem Open Source Software (OSS).
+Our goal is to support you in quality Enterprise Application Software (EAS) development.
 
-### Architecture
+## Architecture
 
-The overall architectural approach is oriented towards Clean Architecture, especially the Onion architecture and Hexagonal Architecture approaches, where IoC is a fundamental element, separating the application core from infrastructure code. 
+The underlying architecture for our projects is based on the "Clean Architecture" approaches:
+* [Hexagonal Architecture, aka. Ports and Adapters (Alistair Cockburn, 2005)](https://dzone.com/articles/hexagonal-architecture-is-powerful) 
+* [Onion Architecture (Jeffrey Palermo, 2008)](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/)
+* [Clean Architecture (Robert C. Martin, 2012)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-The Optivem libraries are designed to support these architectures, with separation of concerns and maximal re-use, enabling:
+For an introductory overview, we recommend [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+
+<!-- TODO: VC: Describe the architectures -->
+
+The key concept is the separation of concerns: 
+* Application Core contains application logic (Application Layer) and domain logic (Domain Layer)
+* Presentation Layer contains GUI Views and Controllers, REST Controllers, SOAP Controllers, Console Commands
+* Infrastructure Layer contains Databases, Email, Messaging, and any other external agencies
+
+The dependencies are as follows:
+* The Application Core is independent of everything else (i.e. the Application Core does not know about the Presentation Layer nor the Infrastructure Layer)
+* The Presentation Layer sends commands to the Application Core
+* The Infrastructure Layer contains implementation for communicating with the database (e.g. via ORM, sending emails, sending messages to message queues, etc.)
+
+But, given the independence above, how do they communicate? The answer is: Inversion of Control (IoC) - Dependency Injection (DI). For example, the Application Core defines interfaces for communicating with a database (i.e. Repository interfaces), and inside the Infrastructure layer, the Repository interfaces are implemented (e.g. using ORM frameworks or any other mechanisms).
+
+The core benefits is that due to the independence of the Application Core, it ensures separation of concerns and modulaity, swappability of databases, UIs and any frameworks, and also enables the system to be testable. These factors increase system quality and decreasing overall total development and maintenance cost.
+
+
+
+## Optivem Platform
+
+The Optivem Platform is designed to support the clean architecture, enabling:
+* Separation of concerns
+* Independence of frameworks, DB, UI
+* High component re-use
 * Extensibility & flexibility
 * Maintainability & testibility
-* Scalability and portability. 
+* Scalability and portability
 
-Each library is split into:
-* Interfaces
-* Abstract base classes
-* Concrete implementations
+The Optivem Platform is on GitHub and NuGet: 
 
-This enables your software development team to appropriately choose to depend on interfaces and within IoC container to configure implementations and execute unit testing. Furthermore, it also enables development teams to either choose to use the default provided implementations or develop custom implementations.
+* [Optivem Platform (.NET Core 2.2) GitHub](https://opensource.optivem.com/platform-dotnetcore)
+* [Optivem Platform (.NET Core 2.2) NuGet] (https://www.nuget.org/profiles/optivem)
 
-## Project Websites
+To show the Optivem Platform usage, we developed a sample application using the well-known Northwind database from Microsoft, as an illustration relevant for enterprise software samples:
 
+* [Optivem Northwind (.NET Core 2.2)](https://opensource.optivem.com/northwind-dotnetcore)
+* [Optivem Northwind (Angular 7)](https://opensource.optivem.com/northwind-angular)
 
-* [Platform (.NET Core 2.2)](https://opensource.optivem.com/platform-dotnetcore)
-* [Northwind (.NET Core 2.2)](https://opensource.optivem.com/northwind-dotnetcore)
+## System Requirements
 
-## Optivem Libraries
-
-### Optivem .NET Core 2 Libraries
-
-Libraries for application core for business logic and data abstraction:
-
-| Interfaces | Implementations |
-| ------------- | ------------- |
-| Entity | Entity.Default |
-| Repository | Repository.EntityFramework <br> Repository.Dapper <br> Repository.AdoNet <br> Repository.MongoDb <br> Repository.Cassandra |
-| UnitOfWork | UnitOfWork.EntityFramework <br> UnitOfWork.Dapper <br> UnitOfWork.AdoNet <br> UnitOfWork.MongoDb <br> UnitOfWork.Cassandra |
-| Service | Service.Default |
-| Controller | Controller.Default |
-
-Infrastructure libraries for cross-cutting concerns:
-
-| Interface | Implementations |
-| ------------- | ------------- |
-| Parsing | Parsing.Default |
-| Mapping | Mapping.Default |
-| Validation | Validation.Default |
-| Serialization | Serialization.Json <br> Serialization.Xml <br> Serialization.Csv <br> Serialization.Excel |
-| Logging | Logging.Log4Net <br> Logging.NLog |
-| Messaging | TBD |
-| Identity | Identity.AspNetIdentity |
-| Authentication | Authentication.OAuth  |
-| Authorization | Authorization.OAuth  |
-| Workflow | TBD  |
-| Queue | TBD  |
-| Process | Process.Default <br> Process.Remote  |
-| Notification | Notification.SignalR <br> Notification.Email |
-| Configuration | Configuration.Default  |
-
-Infrastructure libraries for integration with external systems:
-
-| Interface | Implementations |
-| ------------- | ------------- |
-| Clock | Clock.Default |
-| FileSystem | FileSystem.Default <br> FileSystem.Ftp |
-| Email | Email.Gmail <br> Email.Outlook <br> Email.SendGrid |
-| Cloud | Cloud.Azure <br> Cloud.Aws <br> Email.Google |
-| RestClient | RestClient.RestSharp |
-| RestService | RestService.AspNetCore |
-| SoapClient | TBD |
-| SoapService | TBD |
-
-<!-- TODO: VC: Check regarding PDF and also DSV, additionally UOW and also design patterns, e.g. factory and builder... azure.. amazon... configuration, testing, sql lite, NHibernate, DDD, CQRS, Domain... IoC -> AutoFac, Ninject, Unity, Kafka  -->
-
-
-<!-- TODO: VC: Search infrastructure https://www.nuget.org/packages?page=8&q=infrastructure -->
-
-
-### Optivem Java Libraries
-
-Pending to be released. 
-
-## Instructions
+The following are the applications and technologies installed, which are required to run the projects above.
 
 # C# Instructions
 
-* Visual Studio Community 2017 Version 15.9.4 - [Download Visual Studio Community Version](https://visualstudio.microsoft.com/vs/community/)
-* SQL Server Express 14.0 - [Download SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
-* SQL Server Management Studio v17.8.1 - [Download SQL Server Management Studio (SSMS)](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
-* Microsoft .NET Core SDK 2.2.101 - [Download .NET Core SDK](https://dotnet.microsoft.com/download)
+* [Visual Studio Community 2017 Version 15.9.4](https://visualstudio.microsoft.com/vs/community/)
+* [SQL Server Express 14.0](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
+* [SQL Server Management Studio (SSMS) v17.8.1](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017)
+* [Microsoft .NET Core SDK 2.2.101](https://dotnet.microsoft.com/download)
 
-# Java Instructions
+# Angular 7
 
-Pending
-
-# Angular Instructions
-
-* Visual Studio Code - [Download Visual Studio Code](https://code.visualstudio.com/)
-* Visual Studio Code - Extension - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) 
-* Node.js - [Download Node.js](https://nodejs.org/en/)
-* Angular 7 CLI - [Download Angular CLI](https://cli.angular.io/)
-* Angular 7 - [Download Angular](https://angular.io/) 
-
-For installation instructions, see the following tutorial [Angular 7 Tutorial: Building CRUD Web Application](https://www.djamware.com/post/5bca67d780aca7466989441f/angular-7-tutorial-building-crud-web-application)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Debugger for Chrome (Visual Studio Code Extension)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) 
+* [Node.js](https://nodejs.org/en/)
+* [Angular 7 CLI](https://cli.angular.io/)
+* [Angular 7](https://angular.io/) 
 
 # Other Tools
 
-* Postman 6.6.1 - [Download Postman](https://www.getpostman.com/apps)
+* [Download Postman 6.6.1](https://www.getpostman.com/apps)
 
 ## Feedback
 
@@ -120,4 +86,8 @@ You can send questions, improvement suggestions and issue reports on [GitHub](ht
 
 ## License
 
-Licensed under the [MIT license](http://opensource.org/licenses/mit-license.php). Copyright © 2018 [Optivem](https://www.optivem.com/) All Rights Reserved. 
+Licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
+
+## Copyright
+
+Copyright © 2019 [Optivem](https://www.optivem.com/) All Rights Reserved. 
