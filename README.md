@@ -39,10 +39,8 @@ The core benefits is that due to the independence of the Application Core, it en
 
 ## Optivem Platform
 
-The Optivem Platform is designed to support the clean architecture, enabling:
-* Separation of concerns
-* Independence of frameworks, DB, UI
-* High component re-use
+The Optivem Platform is designed to support the Clean Architecture, enabling:
+* Modularity & re-usability
 * Extensibility & flexibility
 * Maintainability & testibility
 * Scalability and portability
