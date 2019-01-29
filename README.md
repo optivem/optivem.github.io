@@ -35,8 +35,6 @@ But, given the independence above, how do they communicate? The answer is: Inver
 
 The core benefits is that due to the independence of the Application Core, it ensures separation of concerns and modulaity, swappability of databases, UIs and any frameworks, and also enables the system to be testable. These factors increase system quality and decreasing overall total development and maintenance cost.
 
-
-
 ## Optivem Platform
 
 The Optivem Platform is designed to support the clean architecture, enabling:
@@ -57,15 +55,15 @@ To show the Optivem Platform usage, we developed a sample application using the 
 * [Optivem Northwind (.NET Core 2.2)](https://opensource.optivem.com/northwind-dotnetcore)
 * [Optivem Northwind (Angular 7)](https://opensource.optivem.com/northwind-angular)
 
+Optivem Platform and Optivem Northwind are licensed under the MIT licence, so that it can be used freely for commercial projects. Our goal is to help spread best practices in IT organizations and support developers in their daily work.
+
 ## System Requirements
 
-The following are the applications and technologies installed, which are required to run the projects above.
+The following are the applications and technologies installed, which are required to run the projects above:
 
-For .NET Core 2.2 projects, we installed [Microsoft .NET Core SDK 2.2.101](https://dotnet.microsoft.com/download) and used [Visual Studio Community 2017 Version 15.9.4](https://visualstudio.microsoft.com/vs/community/) for the development. For databases, we used [SQL Server Express 14.0](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express) and [SQL Server Management Studio (SSMS) v17.8.1](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017).
-
-For Angular 7 projects, we installed [Node.js](https://nodejs.org/en/), [Angular 7 CLI](https://cli.angular.io/), and [Angular 7](https://angular.io/). For development, we used [Visual Studio Code](https://code.visualstudio.com/) and the [Debugger for Chrome (Visual Studio Code Extension)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) .
-
-Additional tools used include: [Postman 6.6.1](https://www.getpostman.com/apps).
+* .NET Core 2.2 projects: we installed [Microsoft .NET Core SDK 2.2.101](https://dotnet.microsoft.com/download) and used [Visual Studio Community 2017 Version 15.9.4](https://visualstudio.microsoft.com/vs/community/) for the development. For databases, we used [SQL Server Express 14.0](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express) and [SQL Server Management Studio (SSMS) v17.8.1](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-2017).
+* Angular 7 projects: we installed [Node.js](https://nodejs.org/en/), [Angular 7 CLI](https://cli.angular.io/), and [Angular 7](https://angular.io/). For development, we used [Visual Studio Code](https://code.visualstudio.com/) and the [Debugger for Chrome (Visual Studio Code Extension)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) .
+* Additional tools used include: [Postman 6.6.1](https://www.getpostman.com/apps).
 
 ## Feedback
 
