@@ -37,25 +37,25 @@ But, given the independence above, how do they communicate? The answer is: Inver
 
 The core benefits is that due to the independence of the Application Core, it ensures separation of concerns and modulaity, swappability of databases, UIs and any frameworks, and also enables the system to be testable. These factors increase system quality and decreasing overall total development and maintenance cost.
 
-## Optivem Platform
+## Optivem Framework
 
-The Optivem Platform is designed to support the Clean Architecture, enabling:
+The Optivem Framework is designed to support the Clean Architecture, enabling:
 * Modularity & re-usability
 * Extensibility & flexibility
 * Maintainability & testibility
 * Scalability and portability
 
-The Optivem Platform is on GitHub and NuGet: 
+The Optivem Framework is on GitHub and NuGet: 
 
-* [Optivem Platform (.NET Core 2.2) GitHub](https://opensource.optivem.com/platform-dotnetcore)
-* [Optivem Platform (.NET Core 2.2) NuGet](https://www.nuget.org/profiles/optivem)
+* [Optivem Framework (.NET Core 2.2) GitHub](https://opensource.optivem.com/framework-dotnetcore)
+* [Optivem Framework (.NET Core 2.2) NuGet](https://www.nuget.org/profiles/optivem)
 
-To show the Optivem Platform usage, we developed a sample application using the well-known Northwind database from Microsoft, as an illustration relevant for enterprise software samples:
+To show the Optivem Framework usage, we developed a sample application using the well-known Northwind database from Microsoft, as an illustration relevant for enterprise software samples:
 
 * [Optivem Northwind (.NET Core 2.2)](https://opensource.optivem.com/northwind-dotnetcore)
 * [Optivem Northwind (Angular 7)](https://opensource.optivem.com/northwind-angular)
 
-Optivem Platform and Optivem Northwind are licensed under the MIT licence, so that it can be used freely for commercial projects. Our goal is to help spread best practices in IT organizations and support developers in their daily work.
+Optivem Framework and Optivem Northwind are licensed under the MIT licence, so that it can be used freely for commercial projects. Our goal is to help spread best practices in IT organizations and support developers in their daily work.
 
 ## System Requirements
 
@@ -65,6 +65,7 @@ The following are the applications and technologies installed, which are require
 * Angular 7 projects: we installed [Node.js](https://nodejs.org/en/) and [Angular 7 CLI](https://cli.angular.io/). We used [Visual Studio Code](https://code.visualstudio.com/), [Chrome](https://www.google.com/chrome/) and the [Debugger for Chrome (Visual Studio Code Extension)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) .
 * Additional tools used include: [GitHub Desktop](https://desktop.github.com/), [Postman 6.6.1](https://www.getpostman.com/apps) and [Notepad++](https://notepad-plus-plus.org/).
 * Visual Studio Extensions: GitHub Extension for Visual Studio, CodeMaid, SpecFlow for Visual Studio 2019
+* Visual Studio Installer: ASP.NET and web development, Visual Studio extension development
 
 ## Feedback
 
